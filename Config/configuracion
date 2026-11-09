@@ -1,0 +1,10 @@
+<?php
+
+define("BASE_URL", "http://localhost/20262/p3/modeloMvc/Public/");
+define("BASE", "http://localhost/20262/p3/modeloMvc");
+define("APP_NAME", "modeloMvc");
+define('DB_SERVIDOR', 'localhost');
+define('DB_USER', 'root');
+define('DB_CLAVE', '');
+define('DB_NOMBRE', 'db_mvc');
+

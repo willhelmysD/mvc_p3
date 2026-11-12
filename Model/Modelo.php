@@ -1,5 +1,5 @@
 <?php
-require_once "core/BaseDatos.php";
+require_once "Core/BaseDatos.php";
 //require_once "entities/; Añadir entidad
 class clienteModel extends Conectar{
     public function __construct(){
